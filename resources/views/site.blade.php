@@ -34,7 +34,7 @@
 
 
 						<li class="main-nav-list"><a data-toggle="collapse" href="#fruitsVegetable" aria-expanded="false" aria-controls="fruitsVegetable">
-						{{-- TEST --}}
+						TEST
 
 						{{ $category->name }} <span class="number">( {{ count($category->vestiges)  }})</span>
 						</li>
